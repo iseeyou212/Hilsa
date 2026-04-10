@@ -32,7 +32,7 @@ import {
 const ASSETS = {
   video: "https://undanganqu.net/wp-content/uploads/2025/09/Midnight-03-Motion-Compress.mp4",
   icon: "https://undanganqu.net/wp-content/uploads/2025/09/Midnight-03-Icon.png",
-  groom: "https://k.top4top.io/p_3751022s80.png",
+  groom: "https://c.top4top.io/p_3752yvmdn0.png",
   bride: "https://a.top4top.io/p_375175slg0.jpg",
   cover: "https://f.top4top.io/p_3751ntmhn0.png",
   music: "https://undanganqu.net/wp-content/uploads/2024/11/Its-You-Sezairi-Lirik-Lagu-Terjemahan-DeLirik-youtube-mp3cut.net_.mp3",
